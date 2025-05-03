@@ -1,0 +1,10 @@
+{
+    "name": "wifi",
+    "version": "0.0.1",
+    "main": "index.js",
+    "dependencies": {
+        "core": "c9js/core",
+        "mvc": "c9js/mvc",
+        "crypto-js": "4.2.0"
+    }
+}
